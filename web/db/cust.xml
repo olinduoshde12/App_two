@@ -1,0 +1,26 @@
+<customers>
+    <customer>
+        <id>C001</id>
+        <name>olindu</name>
+        <address>aluthgama</address>
+        <salary>1200.00</salary>
+    </customer>
+    <customer>
+        <id>C002</id>
+        <name>kamal</name>
+        <address>mathgama</address>
+        <salary>2200.00</salary>
+    </customer>
+    <customer>
+        <id>C003</id>
+        <name>kavindu</name>
+        <address>maharagama</address>
+        <salary>4300.00</salary>
+    </customer>
+    <customer>
+        <id>C004</id>
+        <name>navndu</name>
+        <address>kaluthara</address>
+        <salary>200.00</salary>
+    </customer>
+</customers>
